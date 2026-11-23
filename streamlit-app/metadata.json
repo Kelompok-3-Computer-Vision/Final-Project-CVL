@@ -1,0 +1,14 @@
+{
+  "class_indices": {
+    "Drowsy": 0,
+    "Non Drowsy": 1
+  },
+  "class_names": [
+    "Drowsy",
+    "Non Drowsy"
+  ],
+  "image_size": [
+    160,
+    160
+  ]
+}
